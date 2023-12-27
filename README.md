@@ -9,3 +9,6 @@ Features I used for the pricing landing page are:-
 6.Visual Hierarchy: Make use of design elements like colors, fonts, and sizes to draw attention to the most popular or recommended plan. Use visual cues to guide users toward the preferred   option.
 7.Call-to-Action (CTA): Each pricing tier should have a prominent CTA button that stands out. Use action-oriented language to encourage users to select a plan or sign up.
 8.Transparency and Clarity: Be transparent about what each plan includes and excludes. Avoid jargon and provide explanations where necessary to avoid confusion.
+
+Here is the work:-
+https://drive.google.com/file/d/1SIrhr4-_8IynPZYPa6mX20JFajLn-HlD/view?usp=drive_link
